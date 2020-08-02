@@ -16,7 +16,7 @@ var me;
 
 me = me.toString()
 console.log(me) 
-var transfer1 = "insert something witty and pointless in here"
+var TrustFund = "Yanno daddy worked really hard for this selling kids to prince andrew, my morals are clear as foie gra water."
 
 me2 = me 
 
@@ -34,15 +34,15 @@ me4 = me4.replace(".js","");
 console.log(me3)
 console.log(me4)
 // Finds JSON From its own name through replacements 
+// IMPROVE, if you get a section of this together and base on the length of the file and can remove characters afterwards it's dynamic 
+
+var TrustFund = me2.replace(".js",".json");
+console.log(TrustFund)
+var gapYah = TrustFund.replace("/" + me4 + "/", "/");
+var NeedlesslyCheapHostel = gapYah.replace()
 
 
-var transfer1 = me2.replace(".js",".json");
-console.log(transfer1)
-var transfer2 = transfer1.replace("/" + me4 + "/", "/");
-var transfer3 = transfer2.replace()
-
-
-me = transfer2
+me = gapYah
 
 
  // variable check 
