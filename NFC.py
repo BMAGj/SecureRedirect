@@ -19,10 +19,10 @@ csv_file = open(directory +  'labelLinks.csv', 'r')
 csv_reader = csv.DictReader(csv_file)
 lcount = 0 
 
-Obscure = ["dyydu","u76jr78jft","yjkyuietyj,yjtdyjtdyj,56u5e67u56,"
-"5e67e5656h,"]
-Obscure2 = ["1111dyydu","11111u76jr78jft","11111yjkyuietyj,yjtdyjtdyj,56u5e67u56,"
-"11115e67e5656h,"]
+Obscure = ["Adyydu","Au76jr78jft","Ayjkyuiety"
+"A5e67e5656h,"]
+Obscure2 = ["A1111dyydu","A11111u76jr78jft","A11111yjkyuiety,"
+"A11115e67e5656h,"]
 
 # This """""" lcount could be replaced with a line by line read of the id field from the csv, notes at the end. 
 

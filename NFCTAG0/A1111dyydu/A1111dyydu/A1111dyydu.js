@@ -4,7 +4,7 @@ var request = new XMLHttpRequest();
 
 // (Javascript finds its filepath saves as 'me') 
 
-// it finds its name not the file path welldone
+
 var me;
 (function(){ 
     var scripts = document.getElementsByTagName('script'); 
@@ -40,8 +40,7 @@ var transfer1 = me2.replace(".js",".json");
 console.log(transfer1)
 var transfer2 = transfer1.replace("/" + me4 + "/", "/");
 var transfer3 = transfer2.replace()
-console.log(transfer2)
-console.log(transfer3)
+
 
 me = transfer2
 
